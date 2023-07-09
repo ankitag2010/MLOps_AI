@@ -1,2 +1,4 @@
-pytorch
 pandas
+scikit-learn
+pylint
+pytest-cov
